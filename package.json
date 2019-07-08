@@ -1,0 +1,22 @@
+{
+  "name": "programming_test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "solution.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Molsagari92/programming_test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Molsagari92/programming_test/issues"
+  },
+  "homepage": "https://github.com/Molsagari92/programming_test#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.9"
+  }
+}
